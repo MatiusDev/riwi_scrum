@@ -9,8 +9,7 @@
 - La aplicación debe permitir a los usuarios agregar cualquier medio de pago y que nuestros administradores puedan verificar los medios de pago mas usados por los clientes y también llevar un conteo de los recaudos por suscripción
 - La aplicación debe permitir a los usuarios descargar peliculas para ver cuando estén conectados a internet.  
 
-### Scrum Master: Mateo Monsalve
-### Dev team:
+### Scrum Master: Mateo Monsalve Ortega
 ### Team leader: Omar Uribe
 ### Dev: Ian Aguirre
 
